@@ -1,7 +1,6 @@
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 
-
 #define SERVO_MIN 150  // Pulso mínimo (~0 graus)
 #define SERVO_MAX 600  // Pulso máximo (~180 graus)
 #define ANGLE_MAX 160
